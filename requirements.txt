@@ -1,0 +1,7 @@
+langgraph
+chromadb
+ollama
+pydantic
+pydantic-settings
+streamlit
+pytest
